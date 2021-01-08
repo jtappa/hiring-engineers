@@ -63,7 +63,7 @@ The Datadog community has written a substantial number of high-quality integrati
 
 * [Guide to the Agent](http://docs.datadoghq.com/agent/)
 * [Datadog Docker-image repo](https://hub.docker.com/r/datadog/docker-dd-agent/)
-* [Writing an Agent check](https://docs.datadoghq.com/agent/agent_checks/)
+* [Writing an Agent check](https://docs.datadoghq.com/developers/write_agent_check/)
 * [Datadog API](https://docs.datadoghq.com/api/)
 
 ### APM
